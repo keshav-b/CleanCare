@@ -2,4 +2,6 @@
 <p>ClenCare</p>
 
 <h>Specifications <h>
-  <p> 1. Java\n2. Android XML\n3. Firebase </p>
+  <p> 1. Java</p>
+  <p> 2. Android XML</p>
+  <p> 3. Firebase </p>
