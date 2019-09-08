@@ -6,7 +6,7 @@ This Project was created for the Smart India Hackthon 2019 for PD Hinduja Group 
 
 **The sensor reading is been fetched from thingSpeak.**
 
-##**USAGE**
+#**USAGE**#
 
 
 `clone the repository and run using Android Studios`
