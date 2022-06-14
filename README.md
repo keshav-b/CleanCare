@@ -12,28 +12,8 @@ This Project was created for the Smart India Hackthon 2019 for PD Hinduja Group 
 `clone the repository and run using Android Studios`
 
 
-<img src="Images/ss9.png">
+<img src="Images/idea.png">
 
-
-<img src="Images/ss8.png">
-
-
-<img src="Images/ss1.png">
-
-
-<img src="Images/ss2.png">
-
-
-<img src="Images/ss3.png">
-
-
-<img src="Images/ss4.png">
-
-
-<img src="Images/ss5.png">
-
-
-<img src="Images/ss7.png">
 
 
 
